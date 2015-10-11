@@ -44,7 +44,7 @@ namespace Ruler
             set
             {
                 if (value != null)
-                    child = value; 
+                    _child = value; 
             }
         }
 
